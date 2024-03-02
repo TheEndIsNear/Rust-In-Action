@@ -1,5 +1,5 @@
 # Rust artifacts
-/target/
+*/*/target/
 
 # Nix artifacts
 result
